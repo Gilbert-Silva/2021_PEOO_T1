@@ -27,7 +27,8 @@ class Time {
   }
   public void Inserir(Jogador j) {
     //if (Capitao() != null && j.GetCapitao()) return;
-    if (Capitao() == null || j.GetCapitao()==false)      if (k < 11) {
+    if (Capitao() == null || j.GetCapitao()==false)
+      if (k < 11) {
         vetor[k] = j;
         k++;
       }
