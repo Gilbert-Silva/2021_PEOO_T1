@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRetangulo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Retangulo>
+    <Base>10</Base>
+    <Altura>20</Altura>
+  </Retangulo>
+  <Retangulo>
+    <Base>20</Base>
+    <Altura>40</Altura>
+  </Retangulo>
+</ArrayOfRetangulo>
